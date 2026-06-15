@@ -1,3 +1,5 @@
+Gustavo Manoel Camargo RA:251979
+
 # Tabelas Identificadas e Regras de Negócio — Cenários 1, 2 e 3
 
 Este documento consolida, para cada cenário, as tabelas identificadas a partir do modelo (entidades/relacionamentos do código) e as regras de negócio implementadas.
